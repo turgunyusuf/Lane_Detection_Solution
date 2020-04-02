@@ -1,0 +1,12 @@
+numpy==1.15.1
+tqdm==4.28.1
+glog==0.3.1
+easydict==1.9
+tensorflow_gpu==1.15.2
+matplotlib==3.0.2
+opencv==4.0.0
+scikit_learn==0.21.1
+
+
+
+python tools/test_lanenet.py --weights_path ./New_Tusimple_Lanenet_Model_Weights/tusimple_lanenet_vgg.ckpt --image_path ./test_images/1348_cam-image_array_.jpg
