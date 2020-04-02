@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 19-4-24 下午3:54
-# @Author  : MaybeShewill-CV
-# @Site    : https://github.com/MaybeShewill-CV/lanenet-lane-detection
-# @File    : lanenet_back_end.py
-# @IDE: PyCharm
+
 """
 LaneNet backend branch which is mainly used for binary and instance segmentation loss calculation
 """

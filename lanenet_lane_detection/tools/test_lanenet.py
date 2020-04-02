@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 18-5-23 上午11:33
-# @Author  : MaybeShewill-CV
-# @Site    : https://github.com/MaybeShewill-CV/lanenet-lane-detection
-# @File    : test_lanenet.py
-# @IDE: PyCharm Community Edition
+
 """
 test LaneNet model on single image
 """

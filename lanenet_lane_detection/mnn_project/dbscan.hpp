@@ -1,18 +1,4 @@
-//
-// Created by Nezha on 2016/12/15.
-//
 
-/**
-* REAMME *
-* @author: ZJ Jiang (Nezha)
-* @github: https://github.com/CallmeNezha/SimpleDBSCAN
-* @describe: This is a simple DBSCAN clustering method implement
-*/
-
-// Copyright 2019 Baidu Inc. All Rights Reserved.
-// Author: MaybeShewill-CV
-// File: dbscan.hpp
-// Date: 2019/11/6 下午8:26
 
 #ifndef MNN_DBSCAN_HPP
 #define MNN_DBSCAN_HPP

@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 19-4-24 下午6:42
-# @Author  : MaybeShewill-CV
-# @Site    : https://github.com/MaybeShewill-CV/lanenet-lane-detection
-# @File    : vgg16_based_fcn.py
-# @IDE: PyCharm
+
 """
 Implement VGG16 based fcn net for semantic segmentation
 """

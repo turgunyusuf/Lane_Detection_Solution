@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 18-5-30 上午10:04
-# @Author  : MaybeShewill-CV
-# @Site    : https://github.com/MaybeShewill-CV/lanenet-lane-detection
-# @File    : lanenet_postprocess.py
-# @IDE: PyCharm Community Edition
+
 """
 LaneNet model post process
 """

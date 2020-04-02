@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 19-4-24 下午3:53
-# @Author  : MaybeShewill-CV
-# @Site    : https://github.com/MaybeShewill-CV/lanenet-lane-detection
-# @File    : lanenet_front_end.py
-# @IDE: PyCharm
+
 """
 LaneNet frontend branch which is mainly used for feature extraction
 """

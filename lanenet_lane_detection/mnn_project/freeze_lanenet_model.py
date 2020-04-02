@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 2019/11/5 下午4:53
-# @Author  : MaybeShewill-CV
-# @Site    : https://github.com/MaybeShewill-CV/lanenet-lane-detection
-# @File    : freeze_lanenet_model.py.py
-# @IDE: PyCharm
+
 """
 Freeze Lanenet model into frozen pb file
 """

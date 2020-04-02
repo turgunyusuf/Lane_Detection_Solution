@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 19-4-23 下午3:53
-# @Author  : MaybeShewill-CV
-# @Site    : https://github.com/MaybeShewill-CV/lanenet-lane-detection
-# @File    : tf_io_pipline_tools.py
-# @IDE: PyCharm
+
 """
 tensorflow io pip line tools
 """

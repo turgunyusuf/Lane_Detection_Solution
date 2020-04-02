@@ -1,9 +1,4 @@
-/************************************************
-* Copyright 2019 Baidu Inc. All Rights Reserved.
-* Author: MaybeShewill-CV
-* File: lanenetModel.h
-* Date: 2019/11/5 下午5:19
-************************************************/
+
 
 #ifndef MNN_LANENET_MODEL_H
 #define MNN_LANENET_MODEL_H

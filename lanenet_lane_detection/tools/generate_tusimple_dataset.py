@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 18-5-18 下午7:31
-# @Author  : MaybeShewill-CV
-# @Site    : https://github.com/MaybeShewill-CV/lanenet-lane-detection
-# @File    : generate_tusimple_dataset.py
-# @IDE: PyCharm Community Edition
+
 """
 generate tusimple training dataset
 """
